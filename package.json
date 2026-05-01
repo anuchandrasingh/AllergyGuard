@@ -1,0 +1,13 @@
+{
+  "name": "allergy-guard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-assisted restaurant menu allergy risk assistant.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,86 @@
+# Hidden Allergen & Cross-Contact Reference Guide
+
+This document provides a comprehensive list of hidden names, technical terms, and high-risk processing methods for major food allergens. This data is intended for use by AI reasoning agents to identify non-obvious risks in restaurant menus and ingredient lists.
+
+## 1. Dairy (Milk)
+**Hidden Names & Derivatives:**
+* Casein, Caseinate (Ammonium, Calcium, Magnesium, Potassium, Sodium)
+* Whey (Delactosed, Demineralized, Protein Concentrate)
+* Lactalbumin, Lactoferrin, Lactoglobulin
+* Ghee, Anhydrous Milk Fat
+* Recaldent (found in some chewing gums)
+* Tagatose (sweetener derived from dairy)
+* Curds, Rennet Casein
+* Nougat (often contains milk)
+
+**High-Risk Processing Contexts:**
+* Baked goods brushed with "wash" (milk/egg).
+* Non-dairy creamers (often contain Sodium Caseinate).
+* Caramel and Butterscotch candies.
+
+## 2. Peanuts
+**Hidden Names & Derivatives:**
+* Arachis oil (another name for peanut oil)
+* Goober peas
+* Mandelonas (peanuts soaked in almond flavoring)
+* Hydrolyzed plant/vegetable protein (can be peanut-sourced)
+* Lupin (a legume that cross-reacts heavily with peanut allergies)
+
+**High-Risk Processing Contexts:**
+* Shared fryers (especially in Asian or fast-food environments).
+* Cuisines: Thai, Vietnamese, African, and Mexican (mole sauces).
+* "Natural Flavors" in candy or snacks.
+
+## 3. Wheat & Gluten
+**Hidden Names & Derivatives:**
+* Seitan (wheat gluten)
+* Bulgur, Farina, Semolina, Spelt, Farro, Einkorn
+* Triticale
+* Soy Sauce (traditionally made with wheat)
+* Malt (Malt Vinegar, Malt Extract, Malt Syrup)
+* Atta, Maida (Indian wheat flours)
+* Hydrolyzed wheat protein
+
+**High-Risk Processing Contexts:**
+* Shared pasta boiling water.
+* "Dusting" of flour on surfaces or for thickening sauces (roux).
+* Imitation crab (Surimi) often uses wheat starch as a binder.
+
+## 4. Egg
+**Hidden Names & Derivatives:**
+* Albumin/Ovalbumin
+* Lysozyme (used as a preservative)
+* Lecithin (can be egg-sourced, though often soy)
+* Vitellin
+* Meringue, Pavlova
+* Surimi
+
+**High-Risk Processing Contexts:**
+* Shiny glazes on bread or pastries.
+* Custards, aioli, and many "house" salad dressings.
+* Fresh pasta (traditionally contains egg).
+
+## 5. Soy
+**Hidden Names & Derivatives:**
+* Edamame
+* Miso, Natto, Tempeh
+* Tamari, Teriyaki sauce
+* Tocopherols (can be soy-sourced Vitamin E)
+* Vegetable gum / Vegetable broth (often contains soy)
+
+**High-Risk Processing Contexts:**
+* Vegetable oils (often a blend including soy).
+* Plant-based meat substitutes.
+
+## 6. Shellfish & Fish
+**Hidden Names & Derivatives:**
+* Glucosamine (often derived from shellfish)
+* Worcestershire sauce (contains anchovies)
+* Caesar dressing (contains anchovies)
+* Nuoc Mam (Fish sauce)
+* Belacan (Shrimp paste)
+* Surimi
+
+**High-Risk Processing Contexts:**
+* Steam or vapors from boiling pots (airborne risk).
+* Shared grills for meat and seafood.
