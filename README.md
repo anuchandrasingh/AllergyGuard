@@ -1,5 +1,6 @@
 # Allergy Guard
-
+## DEMO: 
+https://allergyguard.onrender.com
 **Your Personalized Food Safety Assistant**
 
 Allergy Guard helps people with food allergies make safer restaurant decisions. Users select their allergies and severity level, upload a restaurant menu photo or paste menu text, and Claude produces a safety briefing with risky dishes, hidden allergen concerns, safer swaps, and questions to ask restaurant staff.
